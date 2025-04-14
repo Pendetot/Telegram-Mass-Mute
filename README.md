@@ -17,8 +17,8 @@ Gampang banget:
 
 1. Clone repo ini
 ```
-git clone https://github.com/masven/telegram-mass-mute
-cd telegram-mass-mute
+git clone https://github.com/Pendetot/Telegram-Mass-Mute.git
+cd Telegram-Mass-Mute
 ```
 
 2. Install yang dibutuhkan
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 1. Jalankan script
 ```
-python masven_mass_mute.py
+python app.py
 ```
 
 2. Pertama kali pakai, kamu perlu masukkan API ID dan API Hash Telegram. Dapatkan dari https://my.telegram.org
@@ -45,6 +45,6 @@ Setelah pertama kali pakai, script bakal simpan API ID dan Hash kamu di file dat
 
 Catatan: Ini cuma mute notifikasi, bukan keluar grup. Kamu masih bisa akses semua grup/channel kapan aja, cuma gak bakal diganggu notifikasi.
 
-Kalau ada masalah atau saran, silakan buka issue di repo ini atau langsung DM gw di Telegram: @masven
+Kalau ada masalah atau saran, silakan buka issue di repo ini atau langsung DM gw di Telegram: @masventot
 
 Selamat menikmati ketenangan dari notifikasi Telegram yang berisik!
